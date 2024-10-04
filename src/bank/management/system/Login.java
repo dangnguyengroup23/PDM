@@ -1,9 +1,9 @@
 
 package bank.management.system;
 
-import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
+import javax.swing.*;
 
 public class Login extends JFrame implements ActionListener{
     
@@ -96,6 +96,5 @@ public class Login extends JFrame implements ActionListener{
     public static void main(String args[]) {
         new Login();
          
-       
     }
 }
